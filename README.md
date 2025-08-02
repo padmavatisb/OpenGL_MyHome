@@ -1,4 +1,4 @@
-# OpenGL_MyHome
+# OpenGL_MyHouse
 
 <h2>🔧 Controls / Instructions to Use:</h2>
 Camera Movement (Z-axis):
