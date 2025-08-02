@@ -31,5 +31,5 @@ Camera Movement (Z-axis):
 
 **Press f:** Increase rain speed.
 
-Press v: Decrease rain speed.
+**Press v:** Decrease rain speed.
 
